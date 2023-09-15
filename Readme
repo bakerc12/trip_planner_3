@@ -1,0 +1,9 @@
+this is a simple trip planner that I made for a school project.
+the features of this trip planner are
+1. a daily budget calculator
+2. a converter that changes the area of a country from kilometers squared to miles squared
+3. a simple timezone converter
+4. a currency converter from USD to any other currency
+some instruction for the code include
+1. to not use any other symbols other than numbers, spaces or letters
+2. you have to find the conversions rates for currency
